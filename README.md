@@ -1,4 +1,11 @@
 
+
+
++ Benchmark results: (https://github.com/YoushanZhang/Dog-Cardiomegaly_VHS/blob/main/README.md)
+  
+  ![image](https://github.com/user-attachments/assets/8b2e714c-55e6-4334-91ec-4d05251e614a)
+
+
 - InceptionV3 Results
 
   
