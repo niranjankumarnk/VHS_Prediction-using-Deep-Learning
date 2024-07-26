@@ -6,6 +6,12 @@
 
 - their prediction
 
+  ![Screenshot 2024-07-25 211619](https://github.com/user-attachments/assets/d95f45c3-e866-4536-8504-7132f0379e56)
+
+
+- Loss metric plot (Train and Valid)
+
+  ![Screenshot 2024-07-25 211643](https://github.com/user-attachments/assets/444086d3-3784-4660-9bcf-3d4f4ce0330c)
 
 
 
